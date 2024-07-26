@@ -7,12 +7,12 @@ It is currently no longer recommended to use the web crawling function since twe
 
 Clone the project
 ```
-git clone git@gitlab.com:sollicitatieopdracht/agenda.git
+git clone git@github.com:Gi0vanniM/TweedeKamer-Agenda.git
 ```
 
 CD into the project
 ```
-cd agenda
+cd TweedeKamer-Agenda
 ```
 
 Install the composer dependencies
